@@ -1,6 +1,6 @@
 # User-Profile-Full-Stack
 
-##When it comes to managing user data, we need a way to create a user profile store and session and associate other documents with them. Let’s define some rules around this user profile store concept:
+## When it comes to managing user data, we need a way to create a user profile store and session and associate other documents with them. Let’s define some rules around this user profile store concept:
 
 Store account data like username and password in a profile document.
 
